@@ -37,7 +37,7 @@ INPUT:
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
 
 post recommendations saw
-<img src='img/postsaw.png' alt='recommendations saw'/>
+<img src='img/postsaw.PNG' alt='recommendations saw'/>
 
 post recommendations wp
-<img src='img/postwp.png' alt='recommendations wp'/>
+<img src='img/postwp.PNG' alt='recommendations wp'/>
