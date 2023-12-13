@@ -14,13 +14,13 @@ Install postman
 https://www.postman.com/downloads/
 
 get ponsel list
-<img src='img/spkweb.png' alt='restoran list'/>
+<img src='img/spkweb.PNG' alt='restoran list'/>
 
 get recommendations saw
-<img src='img/saw.png' alt='recommendations saw'/>
+<img src='img/saw.PNG' alt='recommendations saw'/>
 
 get recommendations wp
-<img src='img/wp.png' alt='recommendations wp'/>
+<img src='img/wp.PNG' alt='recommendations wp'/>
 
 ### TUGAS UAS
 Implementasikan model yang sudah anda buat ke dalam web api dengan http method `POST`
