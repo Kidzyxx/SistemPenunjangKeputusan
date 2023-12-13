@@ -27,7 +27,7 @@ Implementasikan model yang sudah anda buat ke dalam web api dengan http method `
 
 INPUT:
     { 
-	"hargamakanan": 3,
+	"hargamakanan": 4,
 	 "kualitasmakanan": 3, 
 	 "pelayanan": 4,
      "suasana" : 2,
